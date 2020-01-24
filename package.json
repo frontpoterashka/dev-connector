@@ -1,0 +1,21 @@
+{
+  "name": "dev-connector",
+  "version": "1.0.0",
+  "description": "Learning project MERN",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/OdinVerst/devconnector_traversy.git"
+  },
+  "author": "S.Razdolyanskiy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/OdinVerst/devconnector_traversy/issues"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
