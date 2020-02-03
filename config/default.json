@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://devuser123:devpass123@devconnector-krvbm.mongodb.net/test?retryWrites=true&w=majority"
+		"mongoURI": "mongodb+srv://devuser123:devpass123@devconnector-krvbm.mongodb.net/test?retryWrites=true&w=majority",
+		"jwtSecert" : "bj2H8wGdUte8sKvj"
 }
